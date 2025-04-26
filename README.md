@@ -1,4 +1,4 @@
-**Tech stack:React **
+<h1>React Wheather App</h1>
 
 This is weather web which displays whether by fetching data from api in good ui. <br><br>
 
