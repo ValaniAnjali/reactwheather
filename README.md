@@ -1,4 +1,4 @@
-**Tech stack:React ** <br>
+**Tech stack:React **
 
 This is weather web which displays whether by fetching data from api in good ui. <br><br>
 
